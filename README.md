@@ -12,3 +12,8 @@
 - **Web Development:** React.js, Node.js, Flask
 - **Databases:** MongoDB
 
+
+### 📫 How to Reach Me:
+- Email: **kondreckas.kipras@gmail.com**
+- [LinkedIn](www.linkedin.com/in/kipras-kipras-kondreckas-587434350)
+
