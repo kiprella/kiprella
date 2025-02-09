@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Kipras!
 
-<!--
-**kiprella/kiprella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- First-year Artificial Intelligence Systems student at **Vilnius Gediminas Technical University (VGTU)**.  
+- Passionate about **Artificial Intelligence, Machine Learning, NLP, Geopolitical Analysis, History, Quantitative finance, Philosophy**.  
+- Currently building projects in **AI-powered Geopolitical news summarization, Goodreads but for scientific papers**.  
+- Open to internships, collaborations, and learning opportunities.  
 
-Here are some ideas to get you started:
+## Skills:
+- **Programming languages:** Python, C++/C, JavaScript, Matlab
+- **AI & ML:** TensorFlow, PyTorch, Hugging Face Transformers
+- **Data Processing:** Pandas, NumPy, OpenCV
+- **Web Development:** React.js, Node.js, Flask
+- **Databases:** MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
