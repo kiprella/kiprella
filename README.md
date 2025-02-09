@@ -15,5 +15,5 @@
 
 ### 📫 How to Reach Me:
 - Email: **kondreckas.kipras@gmail.com**
-- [LinkedIn](www.linkedin.com/in/kipras-kipras-kondreckas-587434350)
+- LinkedIn: **www.linkedin.com/in/kipras-kipras-kondreckas-587434350**
 
