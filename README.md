@@ -7,9 +7,9 @@
 
 ## Skills:
 - **Programming languages:** Python, C++/C, JavaScript, Matlab
-- **AI & ML:** TensorFlow, PyTorch, Hugging Face Transformers
+- **AI & ML:**  Hugging Face Transformers
 - **Data Processing:** Pandas, NumPy, OpenCV
-- **Web Development:** React.js, Node.js, Flask
+- **Web Development:** React.js, Node.js, Next.js
 - **Databases:** MongoDB
 
 
