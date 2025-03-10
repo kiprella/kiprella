@@ -2,7 +2,7 @@
 
 - First-year Artificial Intelligence Systems student at **Vilnius Gediminas Technical University (VGTU)**.  
 - Passionate about **Artificial Intelligence, Machine Learning, NLP, Geopolitical Analysis, History, Quantitative finance, Philosophy**.  
-- Currently building projects in **AI-powered Geopolitical news summarization, Goodreads but for scientific papers**.  
+- Currently building projects in **AI-powered Geopolitical news summarization, Goodreads but for scientific paper (https://github.com/kiprella/GoodPapers)**.  
 - Open to internships, collaborations, and learning opportunities.  
 
 ## Skills:
