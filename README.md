@@ -7,8 +7,8 @@
 
 
 Public projects:
-https://github.com/kiprella/10kHours
-https://github.com/kiprella/GoodPapers
+- https://github.com/kiprella/10kHours
+- https://github.com/kiprella/GoodPapers
 
 ## Skills:
 - **Programming languages:** Python, C++/C, JavaScript, Matlab
