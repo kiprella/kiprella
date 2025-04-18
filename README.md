@@ -11,7 +11,7 @@ Public projects:
 - https://github.com/kiprella/GoodPapers
 
 ## Skills:
-- **Programming languages:** Python, C++/C, JavaScript, Matlab
+- **Programming languages:** Python, C++/C, TypeScript, Matlab
 - **Web Development:** React.js, Node.js, Next.js
 - **Databases:** MongoDB, Firebase
 
