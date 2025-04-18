@@ -12,10 +12,8 @@ Public projects:
 
 ## Skills:
 - **Programming languages:** Python, C++/C, JavaScript, Matlab
-- **AI & ML:**  Hugging Face Transformers
-- **Data Processing:** Pandas, NumPy, OpenCV
 - **Web Development:** React.js, Node.js, Next.js
-- **Databases:** MongoDB
+- **Databases:** MongoDB, Firebase
 
 
 ### 📫 How to Reach Me:
