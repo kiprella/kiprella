@@ -2,13 +2,14 @@
 
 - First-year Artificial Intelligence Systems student at **Vilnius Gediminas Technical University (VGTU)**.  
 - Passionate about **Artificial Intelligence, Geopolitical Analysis, History, Quantitative finance, Philosophy**.  
-- Currently building: **Funding arbitrage bot**.  
+- Currently building: **Funding arbitrage bot**, **Automated agents**.  
 - Open to internships, collaborations, and learning opportunities.  
 
 
 Public projects:
 - https://github.com/kiprella/10kHours
 - https://github.com/kiprella/GoodPapers
+- https://github.com/kiprella/Funding-rate-arbitrage-bot
 
 ## Skills:
 - **Programming languages:** Python, C++/C, TypeScript, Matlab
