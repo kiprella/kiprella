@@ -12,7 +12,7 @@ Public projects:
 - https://github.com/kiprella/Funding-rate-arbitrage-bot
 
 ## Skills:
-- **Programming languages:** Python, C++/C, TypeScript, Matlab
+- **Programming languages:** Python, Java/TypeScript, Matlab
 - **Web Development:** React.js, Node.js, Next.js
 - **Databases:** MongoDB, Firebase
 
