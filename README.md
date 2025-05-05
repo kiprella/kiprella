@@ -2,7 +2,7 @@
 
 - First-year Artificial Intelligence Systems student at **Vilnius Gediminas Technical University (VGTU)**.  
 - Passionate about **Artificial Intelligence, Geopolitical Analysis, History, Quantitative finance, Philosophy**.  
-- Currently building: **Funding arbitrage bot**, **Automated agents**.  
+- Currently building: **Automated agents witn n8n**.  
 - Open to internships, collaborations, and learning opportunities.  
 
 
