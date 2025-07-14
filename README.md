@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kipras!
 
-- First-year Artificial Intelligence Systems student at **Vilnius Gediminas Technical University (VGTU)**.  
+
 
 
 Public projects:
