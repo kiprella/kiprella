@@ -8,7 +8,6 @@ Public projects:
 - https://github.com/kiprella/GoodPapers
 - https://github.com/kiprella/Funding-rate-arbitrage-bot
 - https://github.com/kiprella/DocuGest
-- Owner [reelgenius.app](https://reelgenius.app/)
 
 ## Skills:
 - **Programming languages:** Python, Java/TypeScript, Matlab
