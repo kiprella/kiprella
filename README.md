@@ -1,5 +1,5 @@
 Public projects:
-- [archeva.app](https://www.archeva.app) (AI powered dream analysis application on web and iphones)
+- https://www.visadaprisimink.lt/
 - https://github.com/kiprella/10kHours
 - https://github.com/kiprella/GoodPapers
 - https://github.com/kiprella/Funding-rate-arbitrage-bot
