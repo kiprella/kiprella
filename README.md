@@ -1,6 +1,6 @@
 Public projects:
-- CTO https://www.fourmemories.com/
-- https://www.reelty.lt/
+- CTO (Co-founder) https://www.fourmemories.com/
+- CTO https://www.reelty.lt/
 
 
 Reach Me:
